@@ -41,7 +41,7 @@ const Footer = () => (
         <Link href="/" className="text-gray-500">
           Privacy & Policy
         </Link>
-        <Link href="/" className="text-gray-500">
+        <Link href="/" className="text-gray-400">
           Terms & Condition
         </Link>
       </div>
